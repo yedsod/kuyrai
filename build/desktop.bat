@@ -1,3 +1,3 @@
 @echo off
-start path/to/bin.vbs
+start path/to/bin.vbs { thread number }
 exit
